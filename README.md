@@ -1,4 +1,4 @@
-# OnePlus/Realme SM8750 内核构建项目
+# OnePlus SM8750 内核构建项目
 
 **`简体中文`** |
 
