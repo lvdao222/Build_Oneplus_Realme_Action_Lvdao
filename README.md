@@ -60,12 +60,6 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-## 📈 项目统计
-
-[![Star History Chart](https://api.star-history.com/svg?repos=showdo/Build_Oneplus_Realme_Action&type=Date)](https://star-history.com/#showdo/Build_Oneplus_Realme_Action&Date)
-
----
-
 ## 📞 联系方式
 
 如有问题或建议，请通过以下方式联系：
