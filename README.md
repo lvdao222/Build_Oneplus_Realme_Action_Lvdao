@@ -1,6 +1,6 @@
 # OnePlus/Realme SM8750 内核构建项目
 
-**`简体中文`** | [English](README-en.md)<br>
+**`简体中文`** |
 
 [![GitHub](https://img.shields.io/badge/-GitHub|@showdo-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/showdo/Build_Oneplus_Realme_Action)
 [![Telegram](https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram)](https://t.me/qdykernel)
