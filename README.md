@@ -119,33 +119,7 @@ ubuntu2004.exe config --default-user <your_username>
 
 #### 使用公共缓存
 
-项目会自动从 [Public_Ccache_SM8750](https://github.com/showdo/Build_Oneplus_Realme_Action/releases/tag/Public_Ccache_SM8750) 下载公共缓存，首次编译也能享受加速。
-
-#### 清理旧缓存
-
-当构建时间超过 8 分钟时，会自动清理旧的 ccache 缓存，避免占用过多 GitHub 存储空间。
-
----
-
-### 日志分析
-
-#### 查看编译日志
-
-1. 进入 **Actions** 页面
-2. 点击对应的 workflow 运行记录
-3. 展开各个步骤查看详细输出
-4. 重点关注报错步骤
-
-#### 关键日志标记
-
-```
-[INFO]    - 一般信息
-[SUCCESS] - 成功完成
-[ERROR]   - 错误（需立即处理）
-```
-
----
-
+项目会自动从 [Public_Ccache_SM8750]
 ## 🔗 相关资源
 
 ### 相关项目
@@ -205,6 +179,3 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 - **Telegram**: [@qdykernel](https://t.me/qdykernel)
 - **GitHub Issues**: [新建 Issue](https://github.com/showdo/Build_Oneplus_Realme_Action/issues)
 - **酷安**: 私信 [@Q1udaoyu](http://www.coolapk.com/u/1624571)
-
----
-**维护状态**: 🟢 活跃维护中
